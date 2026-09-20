@@ -41,6 +41,6 @@ while angka < 10:
     
     if angka == 5:
         print ('nice')
-        pass # Ini tidak akan di eksekusi 
+        pass # perintah kosong
 
     print (f'angka sekarang adalah {angka}')
